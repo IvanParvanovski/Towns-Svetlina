@@ -19,7 +19,7 @@ select{
 }
 
 #btnAdd{
-	background-color: lawngreen;
+	background-color: lightblue;
 }
 #btnDelete{
 	background-color: red;
@@ -36,6 +36,7 @@ option{
 	width: 20vw;
 	border-radius: 12px;
 	color: aliceblue;
+  background-color: red;
 }
 #townName{
 	margin: 4px 8px;
@@ -45,3 +46,4 @@ p{
 	margin: 4px 8px;
 	background-color: grey;
 }
+
