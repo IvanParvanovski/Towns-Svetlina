@@ -1,11 +1,49 @@
 select, input {
 	width: 100px;
 }
-
-#btnDelete {
-	background-color: red;
+h1{
+	background-color: gray;
+	color: rgb(249, 251, 252);
+	padding: 2px 4px;
+	font-size: 14;
+}
+body{
+	width: 30%;
+	padding: 8px 14px;
+	
+}
+select{
+	width: 70%;
+	margin-bottom: 8px;
+	margin: 4px 8px;
 }
 
-#btnAdd {
+#btnAdd{
 	background-color: lightblue;
-} 
+}
+#btnDelete{
+	background-color: red;
+}
+option{
+	padding: 4px 6px;
+}
+#div-id{
+	display: flex;
+	flex-direction: column;
+}
+#btnDelete{
+	margin: 4px 8px;
+	width: 20vw;
+	border-radius: 12px;
+	color: aliceblue;
+  background-color: red;
+}
+#townName{
+	margin: 4px 8px;
+	width: 20vw;
+}
+p{
+	margin: 4px 8px;
+	background-color: grey;
+}
+
